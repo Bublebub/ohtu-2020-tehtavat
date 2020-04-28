@@ -13,4 +13,4 @@ Lopuksi tiimiä rohkaistaan antamaan kommenttinsa mihin tahansa osa-alueisiin ja
 **Glad, Sad, Mad** on retrospektiivitekniikka, jossa jokainen osallistuja listaa sprintin aikana esiin tulleita huomioitaan, 
 jotka sijoitetaan kolmeen erilliseen kategoriaan. Kategoriat kuvaavat laajasti positiivisia tai 
 negatiivisia huomioita sprintistä/tiimistä sekä ärsyttäviä (mahdollisesti ulkopuolisia) seikkoja. Osallistujat äänestävät 
-keskusteltavista ongelmista ja ne käydään läpi äänestyksen tuloksien määrämässä tärkeysjärjestyksessä.
+keskusteltavista ongelmista ja ne käydään läpi äänestyksen tuloksien määräämässä tärkeysjärjestyksessä.
