@@ -26,6 +26,6 @@ public class HasAtLeast implements Matcher {
             throw new IllegalStateException("Player does not have field "+fieldName.substring(3, fieldName.length()).toLowerCase());
         }       
         
-    }    
+    }
     
 }
